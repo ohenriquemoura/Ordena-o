@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1632528264 source:c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\main.c
+	"bolha.h"
+	"countingsort.h"
+	"heapsort.h"
+	"insercao.h"
+	"mergesort.h"
+	"quicksort.h"
+	"selecao.h"
+	"shellsort.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<winbase.h>
+	<psapi.h>
+
+1632457878 c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\bolha.h
+
+1632457878 c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\countingsort.h
+
+1632457878 c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\heapsort.h
+	"geracao.h"
+
+1632457878 c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\geracao.h
+	<stdbool.h>
+
+1632457878 c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\insercao.h
+	"geracao.h"
+
+1632457878 c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\mergesort.h
+	"geracao.h"
+
+1632457878 c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\quicksort.h
+	"geracao.h"
+
+1632457878 c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\selecao.h
+	"geracao.h"
+
+1632457878 c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\shellsort.h
+	"geracao.h"
+
+1632457878 source:c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\bolha.c
+	"geracao.h"
+	"bolha.h"
+
+1632457878 source:c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\countingsort.c
+	"geracao.h"
+	"countingsort.h"
+
+1632457878 source:c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\geracao.c
+	"geracao.h"
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+
+1632457878 source:c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\heapsort.c
+	"heapsort.h"
+
+1632457878 source:c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\insercao.c
+	"insercao.h"
+
+1632457878 source:c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\mergesort.c
+	"mergesort.h"
+	<stdlib.h>
+
+1632457878 source:c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\quicksort.c
+	"quicksort.h"
+
+1632457878 source:c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\selecao.c
+	"selecao.h"
+
+1632457878 source:c:\users\user\documents\joão marcos\puc-2 periodo\aed-2\relatorios\rel03(trabalho)\ordenação\shellsort.c
+	"shellsort.h"
+
+1632457878 source:c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\bolha.c
+	"geracao.h"
+	"bolha.h"
+
+1632457878 c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\geracao.h
+	<stdbool.h>
+
+1632457878 c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\bolha.h
+
+1632457878 source:c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\countingsort.c
+	"geracao.h"
+	"countingsort.h"
+
+1632457878 c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\countingsort.h
+
+1632457878 source:c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\geracao.c
+	"geracao.h"
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+
+1632457878 source:c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\heapsort.c
+	"heapsort.h"
+
+1632457878 c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\heapsort.h
+	"geracao.h"
+
+1632457878 source:c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\insercao.c
+	"insercao.h"
+
+1632457878 c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\insercao.h
+	"geracao.h"
+
+1632595165 source:c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\main.c
+	"bolha.h"
+	"countingsort.h"
+	"heapsort.h"
+	"insercao.h"
+	"mergesort.h"
+	"quicksort.h"
+	"selecao.h"
+	"shellsort.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<winbase.h>
+	<psapi.h>
+
+1632457878 c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\mergesort.h
+	"geracao.h"
+
+1632457878 c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\quicksort.h
+	"geracao.h"
+
+1632457878 c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\selecao.h
+	"geracao.h"
+
+1632457878 c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\shellsort.h
+	"geracao.h"
+
+1632457878 source:c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\mergesort.c
+	"mergesort.h"
+	<stdlib.h>
+
+1632457878 source:c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\quicksort.c
+	"quicksort.h"
+
+1632457878 source:c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\selecao.c
+	"selecao.h"
+
+1632457878 source:c:\users\henri\documents\c c++\trabalhoordenacao\ordenação\shellsort.c
+	"shellsort.h"
+
